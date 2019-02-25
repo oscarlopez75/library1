@@ -4,7 +4,7 @@
   "description": "test2",
   "author": "Oscar",
   "license": "MIT",
-  "repository": "https://oscar_computer_guy@bitbucket.org/oscar_computer_guy/sandbox2_lib.git",
+  "repository": "https://github.com/oscarlopez75/library1.git",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
   "jsnext:main": "dist/index.es.js",
